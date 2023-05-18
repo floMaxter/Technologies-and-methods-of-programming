@@ -1,0 +1,69 @@
+# Visual Studio и общие файлы
+.vs/
+bin/
+obj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Компилированные файлы
+*.dll
+*.exe
+
+# Файлы публикации
+publish/
+
+# Файлы проекта и решения
+*.csproj
+*.resx
+*.settings
+*.suo
+*.user
+*.userosscache
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.sdf
+*.opensdf
+*.sln.docstates
+*.bak
+*.vssscc
+.vs/
+
+# Файлы журнала ошибок
+*.log
+
+# Файлы автоматической генерации
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.database
+*.dbmdl
+*.jfm
+*.psess
+*.vsp
+*.vspx
+*.deploymentmanifest
+
+# Отчеты и архивы
+*.pdf
+*.docx
+*.rar

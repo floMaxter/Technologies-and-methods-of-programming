@@ -6,6 +6,7 @@ obj/
 *.user
 *.userosscache
 *.sln.docstates
+*.sln
 
 # Компилированные файлы
 *.dll

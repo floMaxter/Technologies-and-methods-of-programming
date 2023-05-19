@@ -63,8 +63,14 @@ publish/
 *.vsp
 *.vspx
 *.deploymentmanifest
+*.lst
+*.vcxproj*
 
 # Отчеты и архивы
 *.pdf
 *.docx
 *.rar
+
+#Папки
+Debug/
+Properties/
